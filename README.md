@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Justalafano
 - 👀 I’m interested in learning the basics of coding
-- 🌱 I’m currently learning HTML, CSS, Javascript, C#, and .net
+- 🌱 I’m currently learning HTML, CSS, Javascript, & Java
 - 💞️ I’m looking to collaborate on basic projects to help me learn
 - 📫 How to reach me 
 
